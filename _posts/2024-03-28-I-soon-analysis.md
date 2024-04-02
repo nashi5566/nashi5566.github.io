@@ -1,8 +1,8 @@
 ---
  layout: post
- title: I-Soon Internal Documents Leakage Report: Analysis of Wireless Networking Spying Tools and Attacks to Telecommunication Infrastructure
+ title: I-Soon Internal Documents Leakage Report
 ---
-# I-Soon Internal Documents Leakage Report: Analysis of Wireless Networking Spying Tools and Attacks to                    Telecommunication Infrastructure
+## Analysis of Wireless Networking Spying Tools and Attacks to Telecommunication Infrastructure
 
 Recently, internal documents and contracts from I-soon, a Chinese company, were leaked and published on GitHub in February, 2024. Subsequently, the leak was confirmed by I-soon's employees.
 

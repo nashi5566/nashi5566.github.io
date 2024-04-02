@@ -10,7 +10,7 @@ title:            Raagi 不是拉雞
 tagline:          '祈禱不會變成廢文倉庫的地方'
 description:      'Security Research Readings and Drafts of My Research'
 url:              https://nashi5566.github.io              
-baseurl:          /
+baseurl:          
 
 author:
   name:           'Raagi'

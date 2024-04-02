@@ -1,5 +1,7 @@
-# I-Soon Internal Documents Leakage Report: Analysis of Wireless Networking Spying Tools and Attacks to Telecommunication Infrastructure
-
+---
+ layout: post
+ title: I-Soon Internal Documents Leakage Report: Analysis of Wireless Networking Spying Tools and Attacks to Telecommunication Infrastructure
+---
 Recently, internal documents and contracts from I-soon, a Chinese company, were leaked and published on GitHub in February, 2024. Subsequently, the leak was confirmed by I-soon's employees.
 
 In brief, I-soon (安洵資訊科技) claims to be a company providing cybersecurity services, including an intelligence platform, security training, and cybersecurity-related solutions. It is headquartered in Shanghai. From the leaked documents, we can glimpse how I-soon provided spying toolkits and conducted hacking activities targeting foreign authorities, including Pakistan, Poland, the UK government. Even some Taiwanese educational institutions are also listed as victims. The customers of I-soon are allegedly the Chinese government.
